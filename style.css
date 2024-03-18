@@ -1,0 +1,34 @@
+.icons {
+    height: 10vh;
+    display: flex;
+    background-color: #08f91c;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    gap: 1rem;
+}
+
+.login {
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+.login h1 {
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    color: #1b06fd;
+    text-shadow: #7702f3 0 0 5px;
+}
+
+
+.register {
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
